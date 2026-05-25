@@ -4,4 +4,4 @@
 See `experiment1.sql`
 
 ## Output
-![Output](output.jpg)
+![Output](output1.jpg)

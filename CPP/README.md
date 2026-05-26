@@ -1,1 +1,3 @@
-The CPP folder includes C++ programming language code.
+## Output
+
+![Program Output](Output3.jpg)

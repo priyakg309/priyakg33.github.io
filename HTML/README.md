@@ -1,2 +1,2 @@
 Webpage - 
-https://priyakg309.github.io/priyakg33.github.io/HTML/#top
+https://priyakg309.github.io/priyakg33.github.io/HTML/
